@@ -1,0 +1,9 @@
+header, footer {
+    background-color: mediumpurple;
+}
+a {
+    font-size: 20px;
+}
+#uni_list a {
+    color: darkblue;
+}
